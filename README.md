@@ -1,28 +1,37 @@
-# CRUD Sederhana: Sistem Inventaris Barang Sekolah
+# Buku Tamu Digital (CRUD Sederhana)
 
-Ini adalah proyek CRUD (Create, Read, Update, Delete) sederhana menggunakan **HTML**, **CSS**, **PHP**, dan **MySQL**. Aplikasi ini memungkinkan pengguna untuk mengelola data inventaris dengan form input:
+Proyek ini adalah aplikasi **Buku Tamu Digital** sederhana berbasis web menggunakan **HTML**, **CSS**, **PHP**, dan **MySQL**.
 
-- **Nama**
-- **Kategori**
-- **Jumlah**
-- **Lokasi**
-- **Aksi**
+Pengguna dapat mengisi nama, email, dan ucapan, yang akan disimpan ke dalam database dan ditampilkan dalam tabel.
+
+## 📝 Kolom yang Digunakan
+
+- **Nama**: Nama pengunjung
+- **Email**: Alamat email tamu
+- **Ucapan**: Pesan atau ucapan dari tamu
+- **Waktu**: Tanggal dan jam pengisian (otomatis)
+- **Aksi**: Edit dan Hapus data tamu
+
+---
 
 ## ✨ Fitur
 
-- ✅ Tambah data baru
-- ✅ Lihat daftar data dalam tabel
-- ✅ Edit data yang sudah ada
-- ✅ Hapus data
-- ✅ Penyimpanan data di database MySQL
+- ✅ Form input buku tamu
+- ✅ Simpan data ke database MySQL
+- ✅ Tampilkan data dalam bentuk tabel
+- ✅ Edit dan hapus data tamu
+- ✅ Waktu input otomatis (timestamp)
 
-## 🛠 Teknologi yang Digunakan
+---
 
-- HTML
-- CSS
+## ⚙️ Teknologi
+
+- HTML & CSS
 - PHP
 - MySQL
 - Bootstrap
+
+---
 
 ## ⚙️ Cara Menjalankan
 
